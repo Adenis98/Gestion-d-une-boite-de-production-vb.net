@@ -1,5 +1,5 @@
 # Gestion-d-une-boite-de-production-vb.net
 
-vous pouvez utiliser le compte indiqué ci-dessous pour connecter : \n
+vous pouvez utiliser le compte suivant pour connecter :
 user : 12344321
 mdp  : azerazer
